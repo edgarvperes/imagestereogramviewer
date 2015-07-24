@@ -1,0 +1,29 @@
+URL: https://commons.wikimedia.org/wiki/File:Stereogram_Tut_Animated_Shark.gif
+
+Description: Animated autostereogram featuring a swiming shark
+
+Source: Fred Hsu, March 2005.
+
+Instructions: Watch this image while relaxing your eyes and allowing them to focus behind it 
+(diverge) until you see the shark. You should try to start quite near to the screen - as soon as it 
+works you can slowly move away.
+Some people find this easier to do, but you won't get the intended result (converge): 
+Hold your thumb close to the center of the image, and then focus on your thumbnail tip. 
+Then while maintaining focus on your thumbnail tip slowly bring your thumb closer to your eyes until
+the shark outline shows up. Repeat as necessary until you see the shark outline.
+
+The image is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. 	
+
+    You are free:
+
+        to share – to copy, distribute and transmit the work
+        to remix – to adapt the work
+
+    Under the following conditions:
+
+        attribution – You must attribute the work in the manner specified by the author or licensor 
+		(but not in any way that suggests that they endorse you or your use of the work).
+        share alike – If you alter, transform, or build upon this work, you may distribute the 
+		resulting work only under the same or similar license to this one.
+
+This licensing tag was added to this file as part of the GFDL licensing update.
